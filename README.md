@@ -1,3 +1,4 @@
 # learn_github
-abcdefg\n
+abcdefg
+
 second line
